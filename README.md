@@ -52,10 +52,14 @@ balance(text), gait(text), WalkingAid(text), ADL(text),
 
 gender(text), age(text), transfer(text), environmental (text),  and fear(text). 
 
-
-
 # you can download the demo files which are file fall.py and falldata.csv and run fall.py to see how it does work.
 
 
+The article that is related to this code can be found in 
+https://www.sciencedirect.com/science/article/pii/S2666990023000149
+
+citation this code 
+
+Altuhaifa, F., Al Tuhaifa, D., Al Ribh, E., & Al Rebh, E. (2023). Identifying and defining entities associated with fall risk factors events found in fall risk assessment tools. Computer Methods and Programs in Biomedicine Update, 3. doi:10.1016/j.cmpbup.2023.100105
 
 
